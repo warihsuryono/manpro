@@ -1,0 +1,22 @@
+pertama - tama, 
+kan kita tu mau bikin satu website yg isinya bisa komunikasi di room chat sama nampilin informasi tentang grafik sampah.. 
+nah, aku itu udah ngebuild sampe di website yg isinya bisa nampilin 3 menu, (bisa diliat di localhost/homepage) 
+di homepage itu, aku udah bisa masukin si grafik nya ke website yg besar nya
+selanjutnya aku udah build juga room chat nya(bisa diliat di localhost/messager)
+untuk bisa login pake akun nana@gmail.com passwordnya wwww 
+itu aku udah ngasih akun banyak buat percobaan di awal - awal bikin, nama asal sama nama2 kita, 
+di messager itu udah bisa kirim chat di satu ruang chat (kolom chat yg ijo) dan bisa bikin group juga (di kolom yg biru) 
+dan aku ngasih privillage buat siapapun yg pake aplikasi kita, bisa liat users mana aja yg pake aplikasi itu 
+tujuannya di tujukkan untuk ibu rumah tangga bisa liat langsung petugas mana aja yg aktif untuk bisa langsung di panggil untuk 
+ambil sampah kerumah.. di bagian chat itu aku masukin jam dan tanggal, cuma masih di butuhkan sedikit finishing untuk 
+menjadikan jam dan tanggalnya menjadi real time, sesuai dengan detik user mengirimkan chat di chat system tersebut. 
+
+
+sebenarnya aku udah design room chat sesuai dengan class diagram dan flow diagram yg manda bikin, cuma disini yang masih 
+menjadi kendalanya adalah aku belum bisa masukin si room chat yg komplex itu buat di masukin ke homepage yg sebelumnya itu 
+(homepage = website utama) 
+
+tapi sebenarnya di yg homepage itu di bagian utama tu masih bentuknya sementara banget ya 
+jadi maksudnya aku tu harusya yg menu "utama" itu masih bisa di kembangin lagi bentukannya 
+aku belum ngembangin lebih lanjut karena masih mikirin yg ada di dalam folder messager bisa pindah semua masuk ke folder homepage
+menjadi bagian menu "ruang chat" di dalam website utama
