@@ -28,7 +28,8 @@ if(isset($_POST['valz'])){
                                  $found=mysqli_query($db,$sqlp);
                                if($rowcount=mysqli_num_rows($found)==0)
                                {
-                               	 $enter="INSERT INTO Users (Firstname,Sirname,Email,Password,Institution,Phone) VALUES('$firstname','$sirname','$email','$password','$institution','$phone')";
+                               	 // $enter="INSERT INTO Users (Firstname,Sirname,Email,Password,Institution,Phone) VALUES('$firstname','$sirname','$email','$password','$institution','$phone')";
+                               	 $enter="INSERT INTO Users (Firstname,Sirname,Email,Password,Phone) VALUES('$firstname','$sirname','$email','$password','$phone')";
                                   $db->query($enter);
 								  
 								   $messaged="Now that your account is set up, you are ready to get started submit your first proposal on www.nhsrc-mw.com<br/>Thanks for signing up! <br/> 
