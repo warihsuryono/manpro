@@ -263,7 +263,7 @@
        		 <button class="art-button" name="login_button" id="login_button" >&nbsp;       		 
        		 <span class="glyphicon glyphicon-log-in"> </span> &nbsp; Sign In </button>
        	 
-       		  <button class="art-button" name="login_button" id="btn" >&nbsp;       		 
+       		  <button class="art-button" name="login_button" id="btn" onclick="window.location='register_form.php'">&nbsp;       		 
        		 <span class="glyphicon glyphicon-user"> </span> &nbsp; Register </button> 
        	    
        	    </p>
